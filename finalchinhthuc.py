@@ -1,3 +1,12 @@
+#Lớp thương mại điện tử Chất lượng cao (K21411C)
+#Nhóm 4
+#Thành viên:
+#Đinh Ngọc Trà My - K214111325
+#Lê Bảo Minh - K214110840
+#Nguyễn Thị Trúc Quỳnh - K214110848
+#Lê Nhật Thanh - K214110851
+#Bài tập cuối kỳ môn Tư duy lập trình - CHƯƠNG TRÌNH HỖ TRỢ TÌM KIẾM THÔNG TIN VACCINE.
+
 print("******  Chào mừng bạn đến với chatbot tìm hiểu về vaccine Covid-19  ******")
 print("Loại 1: Moderna          Loại 2: Pfizer          Loại 3: Astrazeneca          Loại 4: Sinopharm")
 print("Loại 5: Sinovac          Loại 6: Janssen         Loại 7: Novavax              Loại 8: Sputnik V")
